@@ -1,5 +1,4 @@
-# Banco de Dados Biblioteca
-<sub> Exercícios MySQL </sub>
+# Banco de Dados Biblioteca * - Exercícios MySQL *
 
 Você foi contratado para desenvolver um sistema de gerenciamento de uma pequena biblioteca. Para isso, é necessário criar um banco de dados que armazene informações sobre os livros, autores, membros da biblioteca e os empréstimos realizados. O nome do banco de dados será BibliotecaDB. Em seguida, insira ao menos 3 valores nas tabelas.
 
